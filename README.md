@@ -1,7 +1,7 @@
 # Quiz de Redes
 
 Um quiz interativo em Python sobre conceitos de redes de computadores (focado em IPv4, máscaras de rede, etc.).  
-Ótimo para estudar ou treinar para provas e entrevistas.
+Codigo adaptável para estudar ou treinar para provas e entrevistas.
 
 ## Funcionalidades
 
